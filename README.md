@@ -1,1 +1,1 @@
-# prosta gra
+# simple game snake
